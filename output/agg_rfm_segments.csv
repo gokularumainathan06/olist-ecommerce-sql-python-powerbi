@@ -1,0 +1,8 @@
+segment,customers,avg_recency_days,avg_orders,avg_spend,total_spend
+At-risk big spenders,16334,300.0,1.0,350.13,5718963.28
+New high-value,11073,59.0,1.0,235.43,2606883.81
+Lost one-time buyers,34485,364.0,1.0,69.53,2397908.4
+One-time buyers,17175,167.0,1.0,71.45,1227158.91
+New customers,11482,57.0,1.0,47.11,540925.78
+Loyal repeat buyers,1543,113.0,2.14,264.28,407784.96
+"Repeat buyers, going quiet",1258,353.0,2.08,254.87,320623.79
