@@ -96,4 +96,4 @@ Brazilian E-Commerce Public Dataset by Olist (Kaggle). Check the licence on the 
 
 ## Author
 
-**Gokul Selvam K A** | Coimbatore | [LinkedIn](<paste your LinkedIn link>) | [GitHub](<paste your GitHub link>)
+**Gokul Selvam K A** | Coimbatore | [LinkedIn](https://linkedin.com/in/gokul-selvam07) | [GitHub](https://github.com/gokularumainathan06)
